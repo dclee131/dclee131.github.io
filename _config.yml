@@ -1,15 +1,14 @@
-# Site Settings
-title: Start Jekyll
-email: taniarascia@gmail.com
-description: >
-  A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-twitter_username: taniarascia
-github_username:  taniarascia
-# Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
+### your site title here
+
+title: Your Site Title
+
+
+### let's use the minima theme (see https://github.com/jekyll/minima)
+
+theme: minima
+
+
+### exclude the instructions / write-up in the README.md
+
+exclude:
+- README.md
