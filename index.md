@@ -1,12 +1,11 @@
 ---
-title: Welcome
+title: home
 layout: default
 ---
 
-Hello, Minima!
+I am currently pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology, and my advisor is Professor Konstantin Turitsyn. My main research interest is the power system security assessment by using various tools from control, optimization and machine learning. Currently, I am investigating nonlinear transient dynamics in power systems and developing efficient tools to assess security under various uncertainties in the system.
 
-
-Welcome to markdown madness. We hope you **really** enjoy using good old text for writing.
+# Bold **really** enjoy using good old text for writing.
 
 Just type some [markdown](http://en.wikipedia.org/wiki/Markdown)
 and jekyll will automatically turn it into hypertext markup language (HTML). *Simple as that.*
