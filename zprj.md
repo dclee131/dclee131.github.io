@@ -1,5 +1,10 @@
 ---
-title: Project
+title: Projects
 layout: default
-permalink: /project/
+permalink: /projects/
 ---
+
+### **Convex Restriction**
+Feasibility of constraints
+
+### **Constrained-Input Constrained-Output**
