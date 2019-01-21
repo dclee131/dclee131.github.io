@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: About
 layout: default
 ---
 
