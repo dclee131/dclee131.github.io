@@ -19,7 +19,7 @@ Contact: dclee@mit.edu<br/>
 - B.A.Sc. in Engineering Science, Energy system option, University of Toronto (2009 - 2014)
 &nbsp;
 
-<hr style="height:5px; visibility:hidden;" />
+<hr style="height:10px; visibility:hidden;" />
 
 ### **Experiences**
 - Visiting Student, *Advanced Network Science Initiative*, Los Alamos National Lab, USA, summer 2017
@@ -27,7 +27,7 @@ Contact: dclee@mit.edu<br/>
 - Research Assistant, Ulm University, Ulm, Germany, summer 2011
 - Research Assistant, Yonsei University, Seoul, South Korea, summer 2010
 
-<hr style="height:5px; visibility:hidden;" />
+<hr style="height:10px; visibility:hidden;" />
 
 ### **Academic Activities and Achievements**
 - Reviewer, (IEEE Transactions on Smart Grid, IEEE Transactions on Control of Network System, PES GM 2015, GlobalSIP 2015)
