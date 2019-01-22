@@ -19,6 +19,8 @@ Contact: dclee@mit.edu<br/>
 - B.A.Sc. in Engineering Science, Energy system option, University of Toronto (2009 - 2014)
 &nbsp;
 
+<br style="line-height: 10px" />
+
 ### **Experiences**
 - Visiting Student, *Advanced Network Science Initiative*, Los Alamos National Lab, USA, summer 2017
 - Power Systems Analyst Intern, IESO, Canada, 2012 - 2013
