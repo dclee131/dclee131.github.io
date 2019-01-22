@@ -3,7 +3,7 @@ title: About
 layout: default
 ---
 
-<img src="/assets/profile_pic.jpeg" width="200">
+<img src="/assets/profile_pic.jpeg" width="300">
 
 I am currently pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology, and my advisor is Professor Konstantin Turitsyn. My main research interest is the power system security assessment by using various tools from control, optimization and machine learning. Currently, I am investigating nonlinear transient dynamics in power systems and developing efficient tools to assess security under various uncertainties in the system.
 
