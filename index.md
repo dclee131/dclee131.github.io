@@ -18,7 +18,7 @@ Contact: dclee@mit.edu<br/>
 - M.A.Sc. in Electrical and Computer Engineering, University of Toronto (2014 - 2016)
 - B.A.Sc. in Engineering Science, Energy system option, University of Toronto (2009 - 2014)
 
-<p style="margin-bottom:2cm;" </p>
+<p style="margin-bottom:2cm;"> </p>
 
 ### **Experiences**
 - Visiting Student, *Advanced Network Science Initiative*, Los Alamos National Lab, USA, summer 2017
