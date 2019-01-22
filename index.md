@@ -3,12 +3,12 @@ title: About
 layout: default
 ---
 
-<img align="left" style=”margin: 0px 10px 0px 0px;” src="/assets/profile_pic.jpeg" width="300">
+<img src="/assets/profile_pic.jpeg" width="300" align="left" style="margin: 0px 10px 0px 0px">
 
 I am currently pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology, and my advisor is Professor Konstantin Turitsyn. My main research interest is the power system security assessment by using various tools from control, optimization and machine learning. Currently, I am investigating nonlinear transient dynamics in power systems and developing efficient tools to assess security under various uncertainties in the system.
 
-Contact: dclee@mit.edu \
-[Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en) \
+Contact: dclee@mit.edu&nbsp;
+[Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)&nbsp;
 [Github profile](https://github.com/dclee131)
 
 &nbsp;
