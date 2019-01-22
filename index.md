@@ -17,8 +17,7 @@ Contact: dclee@mit.edu<br/>
 - Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology (2016-present)
 - M.A.Sc. in Electrical and Computer Engineering, University of Toronto (2014 - 2016)
 - B.A.Sc. in Engineering Science, Energy system option, University of Toronto (2009 - 2014)
-
-<p style="margin-bottom:2cm;"> </p>
+&nbsp;
 
 ### **Experiences**
 - Visiting Student, *Advanced Network Science Initiative*, Los Alamos National Lab, USA, summer 2017
