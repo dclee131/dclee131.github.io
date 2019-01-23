@@ -5,9 +5,7 @@ layout: default
 
 <img src="/assets/profile_pic.jpeg" width="250" align="left" style="margin: 0px 25px 0px 0px">
 
-I am currently pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology, and my advisor is Professor Jean-Jacques Slotine. I was previously advised by Professor Konstantin Turitsyn. My main research interest is data-driven and machine learning technique approaches for 
-
-the power system security assessment by using various tools from control, optimization and machine learning. Currently, I am investigating nonlinear transient dynamics in power systems and developing efficient tools to assess security under various uncertainties in the system.
+I am currently pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology. My advisor is Professor Jean-Jacques Slotine, and I was previously advised by Professor Konstantin Turitsyn. I recieved my M.A.Sc in Electrical Engineering at University of Toronto with Professor Deepa Kundur. My current research interests are data-driven and machine learning techniques for nonlinear dynamical systems such as power grids.
 
 Contact: dclee@mit.edu<br/>
 [Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)<br/>
