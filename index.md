@@ -3,7 +3,7 @@ title: About
 layout: default
 ---
 
-<img src="/assets/profile_pic.jpeg" width="250" align="left" style="margin: 0px 25px 0px 0px">
+<img src="/assets/IMG_2816.jpg" width="250" align="left" style="margin: 0px 25px 0px 0px">
 
 I am currently pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology. My advisor is Professor Jean-Jacques Slotine, and I was previously advised by Professor Konstantin Turitsyn. I recieved my M.A.Sc in Electrical Engineering at University of Toronto with Professor Deepa Kundur. My current research interests are data-driven and machine learning techniques for nonlinear dynamical systems such as power grids.
 
