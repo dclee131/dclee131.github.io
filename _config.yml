@@ -4,3 +4,5 @@ description: >
 
 theme: minima
 
+# Google Analytics
+google_analytics: UA-133166168-1
