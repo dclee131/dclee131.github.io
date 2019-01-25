@@ -4,13 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
-### **Journal Papers**
-- Dongchan Lee, Konstantin Turitsyn. "Dynamic Polytopic Template Approach to Robust Transient Stability Assessment," Submitted to IEEE Transaction on Control of Network Systems, 2017.
+### **Journal Papers and Preprints**
+- **Dongchan Lee**, Hung D Nguyen, Krishnamurthy Dvijotham and Konstantin Turitsyn. "Convex Restriction of Power Flow Feasibility Set, "In *arXiv preprint*. [[arXiv](https://arxiv.org/abs/1803.00818)]
+- **Dongchan Lee**, Liviu Aolaritei, Long Vu and Konstantin Turitsyn. "Robustness against Disturbances in Power Systems under Frequency Constraints," In *arXiv preprint*. [[arXiv](https://arxiv.org/abs/1803.00817)]
+- Liviu Aolaritei, **Dongchan Lee**, Long Vu and Konstantin Turitsyn. "A Robustness Measure of Transient Stability under Operational Constraints in Power Systems," In *IEEE Control Systems Letters*, vol. 2, no. 4, pp. 803-808, Oct. 2018. [[DOI](https://ieeexplore.ieee.org/document/8386649)] [[arXiv](https://arxiv.org/abs/1803.02896)]
 
 <hr style="height:10px; visibility:hidden;" />
 
 ### **Conference Papers**
-- **Dongchan Lee**, Konstantin Turitsyn. "Robust Transient Stability Assessment via Reachability Analysis," In *IEEE X Bulk Power Systems Dynamics and Control Symposium IREP*, Espinho, Portugal, 2017.
+- **Dongchan Lee**, Pirathayini Srikantha and D. Kundur. "Online Power Quality Disturbance Classification with Recurrent Neural Network," In *Proc. IEEE SmartGridComm*, Denmark, 2018.
+- **Dongchan Lee** and Konstantin Turitsyn. "Robust Transient Stability Assessment via Reachability Analysis," In *IEEE X Bulk Power Systems Dynamics and Control Symposium IREP*, Espinho, Portugal, 2017. [[DOI](http://irep2017.inesctec.pt/conference-papers/conference-papers/paper30j8q1oifh.pdf)]
 - **Dongchan Lee**, Pirathayini Srikantha and D. Kundur. "Secure Operating Boundary Simplification in Dynamic Security Assessment," In *Proc. IEEE SmartGridComm*, Miami, FL, 2015. [[DOI](https://ieeexplore.ieee.org/abstract/document/7436280)]
 - **Dongchan Lee** and Deepa Kundur. "An Evolutionary Game Approach to Predict Demand Response from Real-Time Pricing," In *Proc. IEEE Electrical Power and Energy Conference*, London, ON, 2015. (Best Paper Award) [[DOI](https://ieeexplore.ieee.org/abstract/document/7379949)]
 - **Dongchan Lee**, Jangwon Park and Deepa Kundur. "Trends in Short-Term Renewable and Load Forecasting for Applications in Smart Grid," In *Proc. EAI International Conference on Smart Grids for Smart Cities*, Toronto, ON, 2015. [[DOI](https://link.springer.com/chapter/10.1007/978-3-319-33681-7_24)]
