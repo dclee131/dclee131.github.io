@@ -5,7 +5,7 @@ layout: default
 
 <img src="/assets/IMG_2816.JPG" width="250" align="left" style="margin: 0px 25px 0px 0px">
 
-I am currently pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology. My advisor is Professor Jean-Jacques Slotine, and I was previously advised by Professor Konstantin Turitsyn. I recieved my M.A.Sc in Electrical Engineering at University of Toronto with Professor Deepa Kundur. My current research interests are data-driven and machine learning techniques for nonlinear dynamical systems such as power grids.
+I am currently pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology. My advisor is Professor [Jean-Jacques Slotine](http://meche.mit.edu/people/faculty/JJS@MIT.EDU), and I was previously advised by Professor [Konstantin Turitsyn](http://www.mit.edu/~turitsyn/). I recieved my M.A.Sc in Electrical Engineering at University of Toronto with Professor [Deepa Kundur](https://www.comm.utoronto.ca/~dkundur/). My current research interests are data-driven and machine learning techniques for nonlinear dynamical systems such as power grids.
 
 Contact: dclee@mit.edu<br/>
 [Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)<br/>
