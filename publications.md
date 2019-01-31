@@ -22,6 +22,7 @@ permalink: /publications/
 <hr style="height:10px; visibility:hidden;" />
 
 ### **Talks**
+- "Input-Output Stability Analysis of Power Grids with Robustness Guarantee," *MIT LIDS Student Conference*, Cambridge, MA, February 2019.
 - "Convex Restriction of Power Flow Feasibility Sets," *INFORMS Annual Meeting*, Phoenix, AZ, November 2018.
 - "Convex Restriction: A Sufficient Condition for Solving Nonlinear Equations," *MIT LIDS Tea Talk*, Cambridge, MA, October 2018.
 - "Convex Restriction of Power Flow Feasibility Sets," *23rd International Symposium on Mathematical Programming (ISMP)*, Bordeaux, France, July 2018.
