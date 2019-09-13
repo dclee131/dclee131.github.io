@@ -3,7 +3,7 @@ title: About
 layout: default
 ---
 
-<img src="/assets/IMG_2816.JPG" width="250" align="left" style="margin: 0px 25px 0px 0px">
+<img src="/assets/IMG_2816.JPG" width="220" align="left" style="margin: 0px 25px 0px 0px">
 
 I am pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology, currently advised by Professor Jean-Jacques Slotine. I recieved my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto. My current research interests are sequential convex restriction and its applications.
 
@@ -11,9 +11,6 @@ Contact: dclee@mit.edu<br/>
 [Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)<br/>
 [Github profile](https://github.com/dclee131)
 
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 
 ### **Education**
