@@ -5,7 +5,7 @@ layout: default
 
 <img src="/assets/IMG_2816.JPG" width="250" align="left" style="margin: 0px 25px 0px 0px">
 
-I am currently pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology. My advisor is Professor Jean-Jacques Slotine, and I was previously advised by Professor Konstantin Turitsyn. I recieved my M.A.Sc in Electrical Engineering at University of Toronto with Professor Deepa Kundur. My current research interests are data-driven and machine learning techniques for nonlinear dynamical systems such as power grids.
+I am pursuing Ph.D. at Massachusetts Institute of Technology, currently advised by Professor Jean-Jacques Slotine. I recieved my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto. My current research interests are sequential convex restriction and its applications.
 
 Contact: dclee@mit.edu<br/>
 [Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)<br/>
@@ -30,7 +30,7 @@ Contact: dclee@mit.edu<br/>
 <hr style="height:10px; visibility:hidden;" />
 
 ### **Academic Activities and Achievements**
-- Reviewer, (IEEE Transactions on Smart Grid, IEEE Transactions on Control of Network System, PES GM 2015, GlobalSIP 2015)
+- Reviewer, (IEEE Transactions on Smart Grid, IEEE Transactions on Control of Network System, IEEE Transactions on Power Systems, PES GM, GlobalSIP)
 - Ontario Graduate Scholarship and ECE Research Fellowship, 2014-2016
 - Best Paper Award at IEEE Electric Power and Energy Conference, 2015
 - Hatch Graduate Scholarship for Sustainable Energy Research, 2015
