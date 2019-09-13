@@ -13,6 +13,8 @@ Contact: dclee@mit.edu<br/>
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ### **Education**
 - Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology (2016-present)
