@@ -25,8 +25,8 @@ permalink: /publications/
 
 ### **Talks**
 - "Convex Restriction of Power Flow Feasibility Sets," Los Alamos National Lab, Los Alamos, NM, August 2019.
+- "Convex Restriction," *SIAM Lightening Talk*, MIT, Cambridge, MA, June 2019.
 - "Sufficient Conditions for Power Flow Solvability and Stability," University of Wisconsin-Madison, Madison, WI, May 2019.
-- "Input-Output Stability Analysis of Power Grids with Robustness Guarantee," *MIT LIDS Student Conference*, Cambridge, MA, February 2019.
 - "Input-Output Stability Analysis of Power Grids with Robustness Guarantee," *MIT LIDS Student Conference*, Cambridge, MA, February 2019.
 - "Convex Restriction of Power Flow Feasibility Sets," *INFORMS Annual Meeting*, Phoenix, AZ, November 2018.
 - "Convex Restriction: A Sufficient Condition for Solving Nonlinear Equations," *MIT LIDS Tea Talk*, Cambridge, MA, October 2018.
