@@ -14,7 +14,7 @@ permalink: /publications/
 <hr style="height:10px; visibility:hidden;" />
 
 ### **Conference Papers**
-- **Dongchan Lee**, Pirathayini Srikantha and D. Kundur. "Online Power Quality Disturbance Classification with Recurrent Neural Network," In *Proc. IEEE SmartGridComm*, Denmark, 2018.
+- **Dongchan Lee**, Pirathayini Srikantha and D. Kundur. "Online Power Quality Disturbance Classification with Recurrent Neural Network," In *Proc. IEEE SmartGridComm*, Denmark, 2018. [[DOI](https://ieeexplore.ieee.org/document/8587510)]
 - **Dongchan Lee** and Konstantin Turitsyn. "Robust Transient Stability Assessment via Reachability Analysis," In *IEEE X Bulk Power Systems Dynamics and Control Symposium IREP*, Espinho, Portugal, 2017. [[DOI](http://irep2017.inesctec.pt/conference-papers/conference-papers/paper30j8q1oifh.pdf)]
 - **Dongchan Lee**, Pirathayini Srikantha and D. Kundur. "Secure Operating Boundary Simplification in Dynamic Security Assessment," In *Proc. IEEE SmartGridComm*, Miami, FL, 2015. [[DOI](https://ieeexplore.ieee.org/abstract/document/7436280)]
 - **Dongchan Lee** and Deepa Kundur. "An Evolutionary Game Approach to Predict Demand Response from Real-Time Pricing," In *Proc. IEEE Electrical Power and Energy Conference*, London, ON, 2015. (Best Paper Award) [[DOI](https://ieeexplore.ieee.org/abstract/document/7379949)]
