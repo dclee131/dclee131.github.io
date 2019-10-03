@@ -14,10 +14,10 @@ Convex restriction identifies the convex subset of a general nonconvex feasible 
 
 One most promising application of the proposed condition is solving a robust optimization problem with nonlinear equality constraints. Equality constraints are inevitable in modelling and analysis, but they impose unique challenges when uncertain variables are introduced. A general treatment of the problem can be found in
 
-# Optimization
+#### Optimization
 - **Dongchan Lee**, Konstantin Turitsyn and Jean-Jacques Slotine. "Sequential Convex Restriction and its Applications in Robust Optimization." [[arXiv](https://arxiv.org/abs/1909.01778)]
 
-# Power Systems
+#### Power Systems
 - **Dongchan Lee**, Konstantin Turitsyn, Dan Molzhan and Line Roald. "Feasible Path Identification in Optimal Power Flow with Sequential Convex Restriction," In *arXiv*. [[arXiv](https://arxiv.org/abs/1906.09483)]
 - **Dongchan Lee**, Hung D Nguyen, Krishnamurthy Dvijotham and Konstantin Turitsyn. "Convex Restriction of Power Flow Feasibility Set." [[DOI](https://ieeexplore.ieee.org/abstract/document/8771227)]
 
