@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 
 ### **Journal Papers and Preprints**
-- **Dongchan Lee**, Konstantin Turitsyn and Jean-Jacques Slotine. "Sequential Convex Restriction and its Applications in Robust Optimization, "In *arXiv*. [[arXiv](https://arxiv.org/abs/1909.01778)]
-- **Dongchan Lee**, Konstantin Turitsyn, Dan Molzhan and Line Roald. "Feasible Path Identification in Optimal Power Flow with Sequential Convex Restriction, "In *arXiv*. [[arXiv](https://arxiv.org/abs/1906.09483)]
-- **Dongchan Lee**, Hung D Nguyen, Krishnamurthy Dvijotham and Konstantin Turitsyn. "Convex Restriction of Power Flow Feasibility Set, "In *IEEE Transaction on Control of Network Systems*, vol. 6, no. 3, pp. 1235-1245, Sept. 2019. [[DOI](https://ieeexplore.ieee.org/abstract/document/8771227)] [[arXiv](https://arxiv.org/abs/1803.00818)]
+- **Dongchan Lee**, Konstantin Turitsyn and Jean-Jacques Slotine. "Sequential Convex Restriction and its Applications in Robust Optimization," In *arXiv*. [[arXiv](https://arxiv.org/abs/1909.01778)]
+- **Dongchan Lee**, Konstantin Turitsyn, Dan Molzhan and Line Roald. "Feasible Path Identification in Optimal Power Flow with Sequential Convex Restriction," In *arXiv*. [[arXiv](https://arxiv.org/abs/1906.09483)]
+- **Dongchan Lee**, Hung D Nguyen, Krishnamurthy Dvijotham and Konstantin Turitsyn. "Convex Restriction of Power Flow Feasibility Set," In *IEEE Transaction on Control of Network Systems*, vol. 6, no. 3, pp. 1235-1245, Sept. 2019. [[DOI](https://ieeexplore.ieee.org/abstract/document/8771227)] [[arXiv](https://arxiv.org/abs/1803.00818)]
 - **Dongchan Lee**, Liviu Aolaritei, Long Vu and Konstantin Turitsyn. "Robustness against Disturbances in Power Systems under Frequency Constraints," In *IEEE Transaction on Control of Network Systems*, vol. 6, no. 3, pp. 971-979, Sept. 2019. [[DOI](https://ieeexplore.ieee.org/abstract/document/8648151)] [[arXiv](https://arxiv.org/abs/1803.00817)]
 - Liviu Aolaritei, **Dongchan Lee**, Long Vu and Konstantin Turitsyn. "A Robustness Measure of Transient Stability under Operational Constraints in Power Systems," In *IEEE Control Systems Letters*, vol. 2, no. 4, pp. 803-808, Oct. 2018. [[DOI](https://ieeexplore.ieee.org/document/8386649)] [[arXiv](https://arxiv.org/abs/1803.02896)]
 
