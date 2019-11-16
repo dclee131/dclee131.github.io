@@ -5,20 +5,18 @@ date:   2015-11-30 00:10:45
 categories: research
 ---
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+<hr style="height:10px; visibility:hidden;" />
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## **Convex Restriction**
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Convex restriction identifies the convex subset of a general nonconvex feasible set described by nonlinear equality and inequality constraints. Nonlinear optimization problems often rely on convex relaxations, which can be interpreted as convex outer approximations of the feasible set. Convex restrictions address the problem of constructing the inner approximation of the feasible set and is especially useful for establishing robustness of the solution under uncertainties.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+One most promising application of the proposed condition is solving a robust optimization problem with nonlinear equality constraints. Equality constraints are inevitable in modelling and analysis, but they impose unique challenges when uncertain variables are introduced. The related papers are listed below.
+
+### **Optimization**
+- "Sequential Convex Restriction and its Applications in Robust Optimization." [[arXiv](https://arxiv.org/abs/1909.01778)]
+
+### **Power Systems**
+- "Feasible Path Identification in Optimal Power Flow with Sequential Convex Restriction." [[arXiv](https://arxiv.org/abs/1906.09483)]
+- "Convex Restriction of Power Flow Feasibility Set." [[DOI](https://ieeexplore.ieee.org/abstract/document/8771227)]
