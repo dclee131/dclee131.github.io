@@ -11,7 +11,7 @@ This page is still being updated.
 
 [Name of Link]({% post_url 2019-11-15-CVXRS.md %})
 
-[Link to a page]({% link _post/CVXRS.md %})
+[Link to a page]({% link _posts/CVXRS.md %})
 
 ## **Convex Restriction**
 
