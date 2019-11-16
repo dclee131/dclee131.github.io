@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Convex Restriction"
+title:  "CVXRS"
 date:   2015-11-30 00:10:45
 categories: research
 ---
