@@ -1,10 +1,8 @@
 ---
-layout: post
-title:  "CVXRS"
-date:   2019-11-15 00:10:45
-categories: research
+title: CVXRS
+layout: default
+permalink: /projects/
 ---
-
 
 <hr style="height:10px; visibility:hidden;" />
 
