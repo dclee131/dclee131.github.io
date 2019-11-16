@@ -10,15 +10,7 @@ This page is still being updated.
 
 <hr style="height:10px; visibility:hidden;" />
 
-[Some Link]({% post_url 2010-07-21-name-of-post %})
-
-[Some Link]({% post_url /_posts/2019-10-07-CVXRS.md %})
-
-[Some Link]({% post_url /_posts/2019-10-07-CVXRS %})
-
-[Some Link]{% post_url /_posts/2019-10-07-CVXRS.md %}
-
-[Some Link](% link /_posts/2019-10-07-CVXRS.md %)
+## [Link to another page](/_posts/CVXRS.md).
 
 ## [Link to another page](/_posts/CVXRS.html).
 
