@@ -16,7 +16,8 @@ This page is still being updated.
 
 [Link to another page](/_post/CVXRS.html).
 
-[Link to another page](/CVXRS.html).
+[Link to another page](/_posts/CVXRS.md).
+
 
 ## **Convex Restriction**
 
