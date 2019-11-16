@@ -15,6 +15,10 @@ This page is still being updated.
 
 [Link to a page]({% link _posts/CVXRS.md %})
 
+[Link to another page](./_post/CVXRS.html).
+
+[Link to another page](./CVXRS.html).
+
 ## **Convex Restriction**
 
 Convex restriction identifies the convex subset of a general nonconvex feasible set described by nonlinear equality and inequality constraints. Nonlinear optimization problems often rely on convex relaxations, which can be interpreted as convex outer approximations of the feasible set. Convex restrictions address the problem of constructing the inner approximation of the feasible set and is especially useful for establishing robustness of the solution under uncertainties.
