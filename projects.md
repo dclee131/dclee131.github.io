@@ -10,13 +10,7 @@ This page is still being updated.
 
 <hr style="height:10px; visibility:hidden;" />
 
-[Name of Link]({% post_url 2019-11-15-CVXRS.md %})
-
-[Link to a page]({% link _posts/CVXRS.md %})
-
-[Link to another page](/_post/CVXRS.html).
-
-[Link to another page](/_posts/CVXRS.md).
+## [Link to another page](/_posts/CVXRS.md).
 
 
 ## **Convex Restriction**
