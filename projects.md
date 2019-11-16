@@ -10,7 +10,7 @@ This page is still being updated.
 
 <hr style="height:10px; visibility:hidden;" />
 
-## [Link to another page](/projects/CVXRS.md).
+## [Link to another page](/projects/CVXRS.html).
 
 
 ## **Convex Restriction**
