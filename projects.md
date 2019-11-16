@@ -8,6 +8,8 @@ This page is still being updated.
 
 [Name of Link]({% post_url 2019-11-15-CVXRS.md %})
 
+[Link to a page]({% link _post/CVXRS.md %})
+
 <hr style="height:10px; visibility:hidden;" />
 
 ## **Convex Restriction**
