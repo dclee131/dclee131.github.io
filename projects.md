@@ -14,9 +14,9 @@ This page is still being updated.
 
 [Link to a page]({% link _posts/CVXRS.md %})
 
-[Link to another page](./_post/CVXRS.html).
+[Link to another page](/_post/CVXRS.html).
 
-[Link to another page](./CVXRS.html).
+[Link to another page](/CVXRS.html).
 
 ## **Convex Restriction**
 
