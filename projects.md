@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: allposts
-permalink: /_posts/
+permalink: /posts/
 ---
 
 
