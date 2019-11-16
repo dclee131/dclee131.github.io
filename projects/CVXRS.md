@@ -1,8 +1,10 @@
 ---
-title: CVXRS
-layout: default
-permalink: /projects/
+layout: post
+title:  "Convex Restriction"
+date:   2019-11-15 00:10:45
+categories: research
 ---
+
 
 <hr style="height:10px; visibility:hidden;" />
 
