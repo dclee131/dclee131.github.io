@@ -10,6 +10,8 @@ This page is still being updated.
 
 <hr style="height:10px; visibility:hidden;" />
 
+[Some Link]({% post_url 2010-07-21-name-of-post %})
+
 ## [Link to another page](/_posts/CVXRS.html).
 
 
