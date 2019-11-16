@@ -10,7 +10,7 @@ This page is still being updated.
 
 <hr style="height:10px; visibility:hidden;" />
 
-## **[Convex Restriction]**(/_posts/2019-10-07-CVXRS.md).
+## [**Convex Restriction**](/_posts/2019-10-07-CVXRS.md).
 
 
 ## **Convex Restriction**
