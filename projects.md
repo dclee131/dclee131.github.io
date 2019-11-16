@@ -10,9 +10,7 @@ This page is still being updated.
 
 <hr style="height:10px; visibility:hidden;" />
 
-## [Link to another page](/_posts/2019-10-07-CVXRS.md).
-
-## [Link to another page](/_posts/2019-10-07-CVXRS.html).
+## **[Convex Restriction]**(/_posts/2019-10-07-CVXRS.md).
 
 
 ## **Convex Restriction**
@@ -21,12 +19,6 @@ Convex restriction identifies the convex subset of a general nonconvex feasible 
 
 One most promising application of the proposed condition is solving a robust optimization problem with nonlinear equality constraints. Equality constraints are inevitable in modelling and analysis, but they impose unique challenges when uncertain variables are introduced. The related papers are listed below.
 
-### **Optimization**
-- "Sequential Convex Restriction and its Applications in Robust Optimization." [[arXiv](https://arxiv.org/abs/1909.01778)]
-
-### **Power Systems**
-- "Feasible Path Identification in Optimal Power Flow with Sequential Convex Restriction." [[arXiv](https://arxiv.org/abs/1906.09483)]
-- "Convex Restriction of Power Flow Feasibility Set." [[DOI](https://ieeexplore.ieee.org/abstract/document/8771227)]
 
 <hr style="height:10px; visibility:hidden;" />
 
