@@ -5,37 +5,6 @@ date:   2015-11-30 00:10:45
 categories: research
 ---
 
-% [link](http://en.wikipedia.org/wiki/Markdown)
-% > Quote goes here.
-% Some inline code `to_html` and a preformatted code block:
-
-```
-Kramdown::Document.new( 'Hello Markdown!' ).to_html
-```
-
-with code highlighting:
-
-``` ruby
-# The Greeter class
-
-class Greeter
-  def initialize(name)
-    @name = name.capitalize
-  end
-
-  def salute
-    puts "Hello #{@name}!"
-  end
-end
-
-# Create a new object
-g = Greeter.new("world")
-
-# Output "Hello World!"
-g.salute
-```
-
-
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
