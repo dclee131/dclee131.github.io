@@ -10,12 +10,9 @@ This page is still being updated.
 
 <hr style="height:10px; visibility:hidden;" />
 
-## [**Convex Restriction**](/_posts/2019-10-07-CVXRS.md).
+## [**Convex Restriction**](/_posts/2019-10-07-CVXRS.md)
 
-Convex restriction identifies the convex subset of a general nonconvex feasible set described by nonlinear equality and inequality constraints. Nonlinear optimization problems often rely on convex relaxations, which can be interpreted as convex outer approximations of the feasible set. Convex restrictions address the problem of constructing the inner approximation of the feasible set and is especially useful for establishing robustness of the solution under uncertainties.
-
-One most promising application of the proposed condition is solving a robust optimization problem with nonlinear equality constraints. Equality constraints are inevitable in modelling and analysis, but they impose unique challenges when uncertain variables are introduced. The related papers are listed below.
-
+Convex restriction identifies the convex subset of a general nonconvex feasible set described by nonlinear equality and inequality constraints. Nonlinear optimization problems often rely on convex relaxations, which can be interpreted as convex outer approximations of the feasible set. Convex restrictions address the problem of constructing the inner approximation of the feasible set and is especially useful for establishing robustness of the solution under uncertainties. Check out the [project site](/_posts/2019-10-07-CVXRS.md) for more details.
 
 <hr style="height:10px; visibility:hidden;" />
 
