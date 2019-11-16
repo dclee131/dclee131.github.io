@@ -1,9 +1,8 @@
 ---
 title: Projects
-layout: allposts
-permalink: /posts/
+layout: default
+permalink: /projects/
 ---
-
 
 
 This page is still being updated.
