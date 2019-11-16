@@ -6,7 +6,7 @@ permalink: /projects/
 
 This page is still being updated.
 
-[Name of Link]({% post_url 2019-11-15-CVXRS %})
+[Name of Link]({% post_url 2019-11-15-CVXRS.md %})
 
 <hr style="height:10px; visibility:hidden;" />
 
