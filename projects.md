@@ -6,6 +6,8 @@ permalink: /projects/
 
 This page is still being updated.
 
+[Name of Link]({% post_url 2019-11-15-CVXRS %})
+
 <hr style="height:10px; visibility:hidden;" />
 
 ## **Convex Restriction**
@@ -22,6 +24,7 @@ One most promising application of the proposed condition is solving a robust opt
 - "Convex Restriction of Power Flow Feasibility Set." [[DOI](https://ieeexplore.ieee.org/abstract/document/8771227)]
 
 <hr style="height:10px; visibility:hidden;" />
+
 
 ## **Constrained-Input Constrained-Output**
 
