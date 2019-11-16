@@ -18,7 +18,7 @@ This page is still being updated.
 
 [Some Link]{% post_url /_posts/2019-10-07-CVXRS.md %}
 
-[Some Link]{% link /_posts/2019-10-07-CVXRS.md %}
+[Some Link](% link /_posts/2019-10-07-CVXRS.md %)
 
 ## [Link to another page](/_posts/CVXRS.html).
 
