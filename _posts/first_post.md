@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Convex Restriction"
 date:   2015-11-30 00:10:45
-categories: energy
+categories: research
 ---
 
 % [link](http://en.wikipedia.org/wiki/Markdown)
