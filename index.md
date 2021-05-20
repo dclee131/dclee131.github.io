@@ -30,7 +30,7 @@ Contact: dclee@mit.edu<br/>
 <hr style="height:10px; visibility:hidden;" />
 
 ### **Academic Activities and Achievements**
-- Reviewer, (IEEE Transactions on Smart Grid, IEEE Transactions on Control of Network System, IEEE Transactions on Power Systems, PES GM, GlobalSIP)
+- Reviewer, (IEEE Transactions on Control of Network System, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, PES GM, GlobalSIP)
 - Ontario Graduate Scholarship and ECE Research Fellowship, 2014-2016
 - Best Paper Award at IEEE Electric Power and Energy Conference, 2015
 - Hatch Graduate Scholarship for Sustainable Energy Research, 2015
