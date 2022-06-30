@@ -5,7 +5,8 @@ layout: default
 
 <img src="/assets/IMG_2816.JPG" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
-I recently joined Amazon Robotics as an applied scientist. I finished my Ph.D. in Mechanical Engineering from Massachusetts Institute of Technology. I recieved my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
+
+I recently joined Amazon Robotics as an applied scientist. I finished my Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology. I received my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
 
 Contact: dclee131 at gmail.com<br/>
 [Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)<br/>
