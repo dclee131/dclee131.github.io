@@ -5,16 +5,16 @@ layout: default
 
 <img src="/assets/IMG_2816.JPG" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
-I am pursuing Ph.D. in Mechanical Engineering at Massachusetts Institute of Technology, currently advised by Professor Jean-Jacques Slotine. I recieved my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto. My current research interests are sequential convex restriction and its applications.
+I recently joined Amazon Robotics as an applied scientist. I finished my Ph.D. in Mechanical Engineering from Massachusetts Institute of Technology. I recieved my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
 
-Contact: dclee@mit.edu<br/>
+Contact: dclee131 at gmail.com<br/>
 [Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)<br/>
 [Github profile](https://github.com/dclee131)
 
 &nbsp;
 
 ### **Education**
-- Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology (2016-present)
+- Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology (2016-2022)
 - M.A.Sc. in Electrical and Computer Engineering, University of Toronto (2014 - 2016)
 - B.A.Sc. in Engineering Science, Energy system option, University of Toronto (2009 - 2014)
 &nbsp;
@@ -22,6 +22,7 @@ Contact: dclee@mit.edu<br/>
 <hr style="height:10px; visibility:hidden;" />
 
 ### **Experiences**
+- Research Engineer Intern, *TuSimple*, San Diego (Remote), USA, summer 2021
 - Visiting Student, *Advanced Network Science Initiative*, Los Alamos National Lab, USA, summer 2017
 - Power Systems Analyst Intern, IESO, Canada, 2012 - 2013
 - Research Assistant, Ulm University, Ulm, Germany, summer 2011
