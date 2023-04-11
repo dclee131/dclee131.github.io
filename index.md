@@ -6,7 +6,7 @@ layout: default
 <img src="/assets/IMG_2816.JPG" width="200" align="left" style="margin: 0px 25px 0px 0px">
 
 
-I recently joined Amazon Robotics as an Applied Scientist. I finished my Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology. I received my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
+I am an Applied Scientist at Amazon Robotics. I work on developing simulation softwares for robotic manipulation programs. I finished my Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology. I received my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
 
 Contact: dclee131 at gmail.com<br/>
 [Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)<br/>
@@ -23,6 +23,7 @@ Contact: dclee131 at gmail.com<br/>
 <hr style="height:10px; visibility:hidden;" />
 
 ### **Experiences**
+- Applied Scientist, *Amazon Robotics*, Boston, USA, 2022 - present
 - Research Engineer Intern, *TuSimple*, San Diego (Remote), USA, summer 2021
 - Visiting Student, *Advanced Network Science Initiative*, Los Alamos National Lab, USA, summer 2017
 - Power Systems Analyst Intern, IESO, Canada, 2012 - 2013
