@@ -9,3 +9,12 @@ Thumbs.db
 
 # cached data
 ongoing/
+
+# Jekyll build and cache
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Locally installed Ruby gems
+vendor/bundle/
+.bundle/

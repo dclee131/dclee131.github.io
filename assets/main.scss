@@ -1,0 +1,104 @@
+---
+---
+
+@import "minima";
+
+.nav-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-left: auto;
+  position: static;
+  border: 0;
+  background: transparent;
+}
+
+.site-nav .page-link {
+  margin: 0;
+  color: $text-color;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  text-decoration: none;
+}
+
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.nav-dropdown summary::-webkit-details-marker {
+  display: none;
+}
+
+.nav-dropdown summary::after {
+  content: " ▾";
+  font-size: 0.75em;
+}
+
+.nav-dropdown-menu {
+  display: none;
+  position: absolute;
+  z-index: 10;
+  top: calc(100% - 0.4rem);
+  right: 0;
+  min-width: 13rem;
+  padding: 0.3rem 0;
+  border: 1px solid $grey-color-light;
+  border-radius: 6px;
+  background: $background-color;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.nav-dropdown-menu a {
+  display: block;
+  padding: 0.36rem 0.75rem;
+  color: $text-color;
+  line-height: 1.62;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.nav-dropdown-menu a:hover,
+.nav-dropdown-menu a:focus {
+  background: darken($background-color, 4%);
+}
+
+.nav-dropdown[open] .nav-dropdown-menu,
+.nav-dropdown:hover .nav-dropdown-menu,
+.nav-dropdown:focus-within .nav-dropdown-menu {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .site-header {
+    min-height: auto;
+  }
+
+  .nav-wrapper {
+    align-items: flex-start;
+  }
+
+  .site-nav {
+    align-items: flex-end;
+    flex-direction: column;
+    gap: 0;
+    padding: 0.4rem 0;
+  }
+
+  .site-nav .page-link {
+    line-height: 2rem;
+  }
+
+  .nav-dropdown-menu {
+    top: 100%;
+  }
+}

@@ -3,41 +3,14 @@ title: About
 layout: default
 ---
 
-<img src="/assets/IMG_2816.JPG" width="200" align="left" style="margin: 0px 25px 0px 0px">
+<img src="{{ '/assets/IMG_2816.JPG' | relative_url }}" width="250" alt="Dongchan Lee" align="left" style="margin: 0 25px 16px 0; border-radius: 8px;">
 
+I am an applied scientist at Amazon Robotics, where I work on simulation for training VLA/RL policies. I also worked on developing simulation software for robotic manipulation programs such as [Robin](https://www.amazon.science/latest-news/amazon-robotics-see-robin-robot-arms-in-action), [Sparrow](https://www.aboutamazon.com/news/operations/amazon-introduces-sparrow-a-state-of-the-art-robot-that-handles-millions-of-diverse-products), [Cardinal](https://www.aboutamazon.com/news/operations/10-years-of-amazon-robotics-how-robots-help-sort-packages-move-product-and-improve-safety), and [Blue Jay](https://www.aboutamazon.com/news/operations/new-robots-amazon-fulfillment-agentic-ai), sim-to-real and real-to-sim transfer, motion planning.
 
-I am an Applied Scientist at Amazon Robotics. I work on developing simulation softwares for robotic manipulation programs. I finished my Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology. I received my M.A.Sc in Electrical Engineering and B.A.Sc in Engineering Science at the University of Toronto.
+Before Amazon Robotics, I completed my Ph.D. at MIT and my M.A.Sc. and B.A.Sc. at the University of Toronto. I also spent time as a visiting researcher with the Center for Nonlinear Studies at Los Alamos National Laboratory. During graduate school, I worked on energy systems problems using optimization and control, developing methods for [convex restriction]({{ '/notes/convex-restriction/' | relative_url }}).
+
 
 Contact: dclee131 at gmail.com<br/>
 [Google scholar](https://scholar.google.com/citations?user=y7OSBigAAAAJ&hl=en)<br/>
 [Github profile](https://github.com/dclee131)
-
-&nbsp;
-
-### **Education**
-- Ph.D. in Mechanical Engineering, Massachusetts Institute of Technology (2016-2022)
-- M.A.Sc. in Electrical and Computer Engineering, University of Toronto (2014 - 2016)
-- B.A.Sc. in Engineering Science, Energy system option, University of Toronto (2009 - 2014)
-&nbsp;
-
-<hr style="height:10px; visibility:hidden;" />
-
-### **Experiences**
-- Applied Scientist, *Amazon Robotics*, Boston, USA, 2022 - present
-- Research Engineer Intern, *TuSimple*, San Diego (Remote), USA, summer 2021
-- Visiting Student, *Advanced Network Science Initiative*, Los Alamos National Lab, USA, summer 2017
-- Power Systems Analyst Intern, IESO, Canada, 2012 - 2013
-- Research Assistant, Ulm University, Ulm, Germany, summer 2011
-- Research Assistant, Yonsei University, Seoul, South Korea, summer 2010
-
-<hr style="height:10px; visibility:hidden;" />
-
-### **Academic Activities and Achievements**
-- Reviewer, (IEEE Transactions on Control of Network System, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, PES GM, GlobalSIP)
-- Ontario Graduate Scholarship and ECE Research Fellowship, 2014-2016
-- Best Paper Award at IEEE Electric Power and Energy Conference, 2015
-- Hatch Graduate Scholarship for Sustainable Energy Research, 2015
-- H. W. Price Research Fellowship for Electrical Engineering, 2015
-- Research in Science and Engineering Scholarship, DAAD, Germany Research Foundation 2011
-
 
