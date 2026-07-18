@@ -84,13 +84,13 @@
   }
 
   .nav-wrapper {
-    align-items: flex-start;
+    align-items: center;
   }
 
   .site-nav {
-    align-items: flex-end;
-    flex-direction: column;
-    gap: 0;
+    align-items: center;
+    flex-direction: row;
+    gap: 1rem;
     padding: 0.4rem 0;
   }
 
