@@ -6,7 +6,7 @@ theme: minima
 collections:
   notes:
     output: true
-    permalink: /notes/:name/
+    permalink: /notes/:path/
 
 defaults:
   - scope:

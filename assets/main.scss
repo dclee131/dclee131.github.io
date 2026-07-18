@@ -3,6 +3,10 @@
 
 @import "minima";
 
+.about-contact {
+  margin-top: 2rem;
+}
+
 .nav-wrapper {
   display: flex;
   align-items: center;
@@ -101,4 +105,96 @@
   .nav-dropdown-menu {
     top: 100%;
   }
+}
+
+.book-shell {
+  display: block;
+}
+
+.book-content {
+  min-width: 0;
+  width: 100%;
+}
+
+.book-header,
+.chapter-header {
+  margin-bottom: 2.25rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+.book-kicker {
+  margin-bottom: 0.25rem;
+  color: $brand-color;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.book-description {
+  color: $grey-color;
+  font-size: 1.08rem;
+}
+
+.chapter-header h1 {
+  margin-bottom: 0;
+}
+
+.book-back-link {
+  display: inline-block;
+  margin-bottom: 0.8rem;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.chapter-body {
+  counter-reset: section;
+}
+
+.chapter-body h2 {
+  counter-increment: section;
+  counter-reset: subsection;
+  margin-top: 2.25rem;
+}
+
+.chapter-body h2::before {
+  content: var(--chapter-number) "." counter(section) " ";
+}
+
+.chapter-body h3 {
+  counter-increment: subsection;
+}
+
+.chapter-body h3::before {
+  content: var(--chapter-number) "." counter(section) "." counter(subsection) " ";
+}
+
+.notes-toc,
+.notes-toc ol {
+  counter-reset: item;
+  list-style: none;
+}
+
+.notes-toc {
+  margin-left: 0;
+}
+
+.notes-toc ol {
+  margin: 0.35rem 0 0.8rem 1.5rem;
+}
+
+.notes-toc li {
+  counter-increment: item;
+  margin: 0.25rem 0;
+}
+
+.notes-toc li::before {
+  content: counters(item, ".") ". ";
+  color: $grey-color;
+  font-variant-numeric: tabular-nums;
+}
+
+.notes-toc > li > a {
+  font-weight: 600;
 }

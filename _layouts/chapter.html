@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% include mathjax.html %}
+<div class="book-shell">
+  <article class="book-content chapter-content" style="--chapter-number: '{{ page.chapter }}'">
+    <header class="chapter-header">
+      <a class="book-back-link" href="{{ page.book_url | relative_url }}">← Table of Contents</a>
+      <h1>{{ page.chapter }}. {{ page.title }}</h1>
+    </header>
+    <div class="chapter-body">
+      {{ content }}
+    </div>
+  </article>
+</div>
