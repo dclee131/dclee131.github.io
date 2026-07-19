@@ -111,7 +111,7 @@ where $J$ is the Jacobian of $f$ with respect to $x$ evaluated at a nominal poin
 
 > **Brouwer's fixed-point theorem.** Let $\mathcal{P}\subset\mathbb{R}^n$ be nonempty, compact, and convex. If $T:\mathcal{P}\to\mathcal{P}$ is continuous, then there exists an $x^\star\in\mathcal{P}$ such that $T(x^\star)=x^\star$.
 
-We can parameterize the box $\mathcal{P}(x^u,x^\ell)=\lbrace x\mid x^\ell\leq x\leq x^u\rbrace$ and search for bounds $x^u$ and $x^\ell$ that certify solvability. In addition, we introduce convex upper and concave lower envelopes to bound the nonlinearity componentwise:
+Brouwer's theorem gives an abstract existence condition, but it does not directly provide inequalities that we can verify or optimize over in practice. To obtain such analytical conditions, we parameterize the box $\mathcal{P}(x^u,x^\ell)=\lbrace x\mid x^\ell\leq x\leq x^u\rbrace$ and search for bounds $x^u$ and $x^\ell$ that certify solvability. We then introduce convex upper and concave lower envelopes to bound the nonlinearity componentwise:
 
 $$
 f^\ell(x,u) \leq f(x,u) \leq f^u(x,u),
@@ -186,13 +186,21 @@ $$
 
 so the solution to $f(x,u)=0$ also satisfies the inequality constraint $h(x,u)\leq 0$. $\square$
 
-Since the upper envelopes are jointly convex and the lower envelope is jointly concave in $(x,u)$, the displayed conditions are convex in $(u,x^u,x^\ell,g^u,g^\ell)$: every vertex of the box is an affine function of $(x^u,x^\ell)$, and $J$ remains fixed. Projecting these conditions onto $u$ therefore produces a convex restriction of the feasible parameter set.
+Because the envelopes are jointly convex or concave in $(x,u)$, and each vertex is an affine function of $(x^\ell,x^u)$, these conditions define a convex set. Its projection onto $u$ is therefore a convex restriction of the feasible parameter set.
 
 Figure 1 illustrates this construction for a quadratic equation.
 
-At first glance, the number of constraints appears to grow exponentially with the problem size: a box in $\mathbb R^n$ has $2^n$ vertices.
+At first glance, the number of constraints appears to grow exponentially with the problem size: a box in $\mathbb R^n$ has $2^n$ vertices. In many applications, however, the nonlinearity in $f$ is sparse, and each residual depends on only a few entries of $x$. For example, a single-layer neural network can be lifted as
 
-In many applications, however, the nonlinearity in $f$ is sparse, and each residual depends on only a few entries of $x$. For example, $\sum_{i=1}^N\cos(x_i-x_{i-1})=0$ can be written as $\sum_{i=1}^N x_{N+i}=0$ together with $x_{N+i}-\cos(x_i-x_{i-1})=0$ for $i=1,\ldots,N$. Each of these nonlinear residuals depends on only $x_{N+i}$, $x_i$, and $x_{i-1}$, so its envelope needs to be checked at only $2^3$ local vertices rather than all $2^{2N}$ vertices of the lifted box.
+$$
+u=\operatorname{ReLU}(Wx_{1:N})
+\quad\Longleftrightarrow\quad
+u=\operatorname{ReLU}(x_{N+1:M}),
+\qquad
+x_{N+1:M}=Wx_{1:N}.
+$$
+
+Each nonlinear residual $u_i-\operatorname{ReLU}(x_{N+i})=0$ depends on only one implicit variable, $x_{N+i}$. Its envelope therefore needs to be checked at only $2$ local vertices, rather than at all $2^M$ vertices of the lifted box.
 
 
 ### Further reading
