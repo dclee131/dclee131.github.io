@@ -2,6 +2,8 @@
 title: Convex Restriction
 layout: page
 permalink: /notes/convex-restriction/
+redirect_from:
+  - /research/2019/10/07/CVXRS.html
 ---
 
 <script>

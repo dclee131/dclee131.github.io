@@ -3,6 +3,9 @@ description: Applied scientist working in robotics, optimization, and machine le
 
 theme: minima
 
+plugins:
+  - jekyll-redirect-from
+
 collections:
   notes:
     output: true
