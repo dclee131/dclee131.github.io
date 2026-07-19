@@ -7,6 +7,43 @@
   margin-top: 2rem;
 }
 
+.contact-email {
+  margin-bottom: 0.8rem;
+  color: $grey-color;
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.profile-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid $grey-color-light;
+  border-radius: 999px;
+  color: $text-color;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.profile-links a:hover,
+.profile-links a:focus {
+  border-color: $brand-color;
+  background: darken($background-color, 3%);
+}
+
+.profile-links svg {
+  width: 1.05rem;
+  height: 1.05rem;
+  fill: currentColor;
+  flex: 0 0 auto;
+}
+
 .nav-wrapper {
   display: flex;
   align-items: center;
